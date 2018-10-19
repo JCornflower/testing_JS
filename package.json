@@ -1,0 +1,19 @@
+{
+  "name": "testing_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "first.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JCornflower/testing_JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JCornflower/testing_JS/issues"
+  },
+  "homepage": "https://github.com/JCornflower/testing_JS#readme"
+}
