@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JCornflower/testing_JS/issues"
   },
-  "homepage": "https://github.com/JCornflower/testing_JS#readme"
+  "homepage": "https://github.com/JCornflower/testing_JS#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
 }
